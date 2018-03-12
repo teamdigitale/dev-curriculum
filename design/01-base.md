@@ -27,9 +27,20 @@ bootstrap-italia-playground/
 
 # Exercises
 
-If you open the exercise page, you will find an empty page which is not very interesting. It's time to create 
+If you open the exercise page, you will find an empty page which is not very interesting. It's time to create a beautiful website.
+
+For these exercises we'll use the examples found at https://getbootstrap.com/docs/4.0/examples/
+
+# The blog
+
+How would a blog look like with this theme? Luckily, since we use Bootstrap, we can take inspiration from their examples, and most of the standard components will be replaced by our customization.
+
+https://getbootstrap.com/docs/4.0/examples/blog/
 
 
+# The dashboar
+
+# Create a beautiful example
 
 ## References
 
