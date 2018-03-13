@@ -1,4 +1,4 @@
-# Bootstrap Italia Playground
+# Hacking on Bootstrap Italia
 
 Bootstrap Italia is a theme based on [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) to create responsive, mobile-first web applications.
 
