@@ -22,4 +22,4 @@ You can find a more detailed explanation (in Italian) on https://italia.github.i
 # Identifying a task
 
 We have many components still missing, and several pending issues.
-You can find a list of all features where you can contribute here: https://github.com/italia/bootstrap-italia/issues
+You can find a list of all features where you can contribute [on the relevant issues page](https://github.com/italia/bootstrap-italia/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22). You can take on any task with the `help wanted` label.
