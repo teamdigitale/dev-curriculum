@@ -14,8 +14,16 @@ https://github.com/italia/spid-testenv-docker
 ## Creating a service
 
 There are a lot of technological choices possible for creating your service.
-Using an example:
+
+### Case 1: using our Ansible Playbook
 https://github.com/italia/spid-sp-playbook
+
+
+### Case 2: using an authentication plugin
+
+
+## Publishing your service
+
 
 
 ## References

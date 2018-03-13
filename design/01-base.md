@@ -21,8 +21,9 @@ bootstrap-italia-playground/
 ├── css/
 │   ├── docs.min.css    # a minified library used to style header and footer
 │   ├── main.css        # working CSS file
-└── js/
-    └── main.js         # working JS file
+├── js/
+│   └── main.js         # working JS file
+└── gallery/            # gallery of examples
 ```
 
 # Exercises
@@ -41,11 +42,17 @@ https://getbootstrap.com/docs/4.0/examples/blog/
 
 ## The dashboard
 
-Another useful example to try to recreate is your dashboard
+Another useful example to try to recreate is a dashboard for a public service. You can get some inspiration here:
 https://getbootstrap.com/docs/4.0/examples/dashboard/
 
 ## Create a beautiful example
-Of course
+
+Of course Boostrap's gallery has only very few examples, but imagining a service for citizens can create many more beautiful user interfaces.
+Use your creativity, imagine a service, and try to create a mock UI using this tool.
+
+## Submitting your work
+
+We'd love to host a gallery of the most beautiful websites created with the Italia Boostrapt theme. If you have something to show us, please [send us a pull request]([https://github.com/italia/bootstrap-italia-playground#fork-destination-box])!
 
 ## References
 

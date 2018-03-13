@@ -4,7 +4,7 @@ Bootstrap Italia is a theme based on [Bootstrap 4](https://getbootstrap.com/docs
 
 Bootstrap Italia inherits all functionalities, components, mixins and gridsystem from Bootstrap 4, and adapts them to follow the [design guidelines for Italian Public Administrations web services](https://design-italia.readthedocs.io/it/stable/index.html).
 
-With this activity you will learn how to hack and contribute on this toolkit.
+If you have followed the base exercise, you know how powerful this toolkit can be. With this activity you will learn how to hack and contribute on this toolkit.
 
 # Prerequisites
 
