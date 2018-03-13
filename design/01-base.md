@@ -23,7 +23,7 @@ bootstrap-italia-playground/
 │   ├── main.css        # working CSS file
 ├── js/
 │   └── main.js         # working JS file
-└── gallery/            # gallery of examples
+└── gallery/            # gallery of example html files
 ```
 
 # Exercises
