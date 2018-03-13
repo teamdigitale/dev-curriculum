@@ -27,20 +27,25 @@ bootstrap-italia-playground/
 
 # Exercises
 
-If you open the exercise page, you will find an empty page which is not very interesting. It's time to create a beautiful website.
+If you open the exercise page, you will find an empty page which is not very interesting. It's time to create a beautiful website out of it and familiarizing with the power of Bootstrap and the Italia theme.
 
 For these exercises we'll use the examples found at https://getbootstrap.com/docs/4.0/examples/
 
-# The blog
+## The blog
 
 How would a blog look like with this theme? Luckily, since we use Bootstrap, we can take inspiration from their examples, and most of the standard components will be replaced by our customization.
 
+Bootstrap has published an example of such a page here:
 https://getbootstrap.com/docs/4.0/examples/blog/
 
 
-# The dashboar
+## The dashboard
 
-# Create a beautiful example
+Another useful example to try to recreate is your dashboard
+https://getbootstrap.com/docs/4.0/examples/dashboard/
+
+## Create a beautiful example
+Of course
 
 ## References
 
