@@ -29,11 +29,15 @@ Once you found a task you want to tackle, you can start to work on it.
 
 You will perform most of the work on the components. To hack on them you will need to edit the files found in `src/scss` and `src/js`, and test your result by looking at the relevant page in the documentation.
 
+You will notice that all of this content is automatically synced to the browser, since we use Browsersync. Just refresh the page and all of the components in the page will be automatically updated to the last local change.
+
 # Submitting your work
 
-We'd love to integrate your work in our repositories!
+We'd love to integrate your work in our repositories! Please make sure your local git is configured, so that we can give you proper attribution.
 
 ```.bash
 git config --global user.name "Your Name"
 git config --global user.email your.email@address.org
 ```
+
+Then (fork)[https://github.com/italia/bootstrap-italia#fork-destination-box] `boostrap-italia` and submit a Pull Request. If you don't know how to do this, check out [the awesome guide from GitHub](https://help.github.com/articles/creating-a-pull-request/).
