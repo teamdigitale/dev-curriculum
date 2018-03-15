@@ -45,6 +45,6 @@ git config --global user.name "Your Name"
 git config --global user.email your.email@address.org
 ```
 
-Then (fork)[https://github.com/italia/cie-nis-cpp-sdk#fork-destination-box] `cie-nis-cpp-sdk` and submit a Pull Request. If you don't know how to do this, check out [the awesome guide from GitHub](https://help.github.com/articles/creating-a-pull-request/).
+Then [fork](https://github.com/italia/cie-nis-cpp-sdk#fork-destination-box) `cie-nis-cpp-sdk` and submit a Pull Request. If you don't know how to do this, check out [the awesome guide from GitHub](https://help.github.com/articles/creating-a-pull-request/).
 
 Happy hacking!
