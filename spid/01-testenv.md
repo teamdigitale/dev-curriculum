@@ -11,19 +11,14 @@ To be able to create a service which accepts SPID users, the very first thing yo
 Setting up the test environment might be challenging. Luckily, we have a plug-and-play solution, through a Docker container. You can install it easily here:
 https://github.com/italia/spid-testenv-docker
 
-## Creating a service
+Otherwise, just use the shared one at https://idp.spid.gov.it:8080/
 
-There are a lot of technological choices possible for creating your service.
+## Community resources for SPID integration
 
-### Step 1: using our Ansible Playbook
-https://github.com/italia/spid-sp-playbook
+The community of Developers Italia maintains many projects aimed at making SPID integration easy. They are libraries, plugins, SDKs covering many programming languages, frameworks and CMSs. You can see a list [here](https://github.com/italia/spid-docs/tree/master/resources-checklist).
 
+### Activity #1:
+Many of those projects are not feature complete, so you can help us make them robust by testing them and reporting issues.
 
-### Step 2: using an authentication plugin
-
-
-## Publishing your service
-
-
-
-## References
+### Activity #2:
+We have prepared a [feature checklist](https://github.com/italia/spid-docs/tree/master/resources-checklist) which should be applied to the README of each project. Choose a project and help us assess what its features are, and what's missing. Open a pull request to add the checklist to the README file. Your work will be very helpful for developers and the community, as it will provide guidance for further development.
